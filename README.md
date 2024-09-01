@@ -1,26 +1,26 @@
-# Aplikasi Tugas Harian
+# Daily Task Tracker Application
 
-Aplikasi Tugas Harian adalah aplikasi sederhana untuk mengelola tugas harian dengan fitur CRUD (Create, Read, Update, Delete). Aplikasi ini memungkinkan pengguna untuk menambah, mengedit, menghapus, dan menandai tugas sebagai selesai, serta menetapkan tanggal tenggat waktu untuk setiap tugas.
+The Daily Task Tracker Application is a simple application to manage daily tasks with CRUD (Create, Read, Update, Delete) features. This application allows users to add, edit, delete, and mark tasks as completed, as well as set due dates for each task.
 
-## Fitur
+## Features
 
-- **Tambah Tugas**: Pengguna dapat menambahkan tugas baru dengan memasukkan teks tugas dan tanggal tenggat waktu.
-- **Lihat Tugas**: Daftar tugas yang telah ditambahkan akan ditampilkan di halaman utama.
-- **Edit Tugas**: Pengguna dapat mengedit teks tugas dan tanggal tenggat waktu yang telah ditambahkan.
-- **Hapus Tugas**: Pengguna dapat menghapus tugas yang tidak diperlukan lagi.
-- **Tandai Selesai**: Pengguna dapat menandai tugas sebagai selesai atau batal selesai.
+- **Add Task**: Users can add new tasks by entering the task text and due date.
+- **View Tasks**: The list of added tasks will be displayed on the main page.
+- **Edit Task**: Users can edit the text and due date of the added tasks.
+- **Delete Task**: Users can delete tasks that are no longer needed.
+- **Mark as Completed**: Users can mark tasks as completed or undo the completion.
 
-## Cara Menggunakan
+## How to Use
 
-1. **Tambah Tugas**: Masukkan teks tugas di input "Tambahkan tugas baru" dan pilih tanggal tenggat waktu di input "Tanggal Tenggat". Klik tombol "Tambah" untuk menambahkan tugas ke daftar.
-2. **Lihat Tugas**: Daftar tugas yang telah ditambahkan akan ditampilkan di bawah input tugas.
-3. **Edit Tugas**: Klik tombol "Edit" di sebelah tugas yang ingin diedit. Masukkan teks tugas baru dan tanggal tenggat waktu baru, lalu klik "OK".
-4. **Hapus Tugas**: Klik tombol "Hapus" di sebelah tugas yang ingin dihapus.
-5. **Tandai Selesai**: Klik tombol "Selesai" di sebelah tugas yang ingin ditandai sebagai selesai. Klik tombol "Batal" untuk membatalkan tanda selesai.
+1. **Add Task**: Enter the task text in the "Add new task" input and select the due date in the "Due Date" input. Click the "Add" button to add the task to the list.
+2. **View Tasks**: The list of added tasks will be displayed below the task input.
+3. **Edit Task**: Click the "Edit" button next to the task you want to edit. Enter the new task text and new due date, then click "OK".
+4. **Delete Task**: Click the "Delete" button next to the task you want to delete.
+5. **Mark as Completed**: Click the "Complete" button next to the task you want to mark as completed. Click the "Undo" button to undo the completion.
 
-## Struktur Proyek
+## Project Structure
 
-- `index.html`: File HTML utama yang berisi struktur dasar aplikasi.
-- `styles.css`: File CSS yang berisi gaya tampilan aplikasi.
-- `scripts.js`: File JavaScript yang berisi logika aplikasi.
+- `index.html`: The main HTML file containing the basic structure of the application.
+- `styles.css`: The CSS file containing the styles for the application.
+- `scripts.js`: The JavaScript file containing the logic for the application.
 
