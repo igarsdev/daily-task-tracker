@@ -3,13 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Aplikasi Tugas Harian</title>
+    <title>Task Tracker Application</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <h1>Aplikasi Tugas Harian</h1>
-    <input type="text" id="new-task" placeholder="Tambahkan tugas baru" />
-    <button onclick="addTask()">Tambah</button>
+    <h1>Task Tracker Application</h1>
+    <input type="text" id="new-task" placeholder="Create New Task" />
+    <input type="date" id="due-date" />
+    <button onclick="addTask()">Add Task</button>
     <ul id="task-list"></ul>
     <script src="scripts.js"></script>
   </body>

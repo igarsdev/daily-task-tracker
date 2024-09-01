@@ -10,12 +10,13 @@ body {
 }
 
 h1 {
-  color: #000000;
+  color: #4caf50;
 }
 
-input[type="text"] {
+input[type="text"],
+input[type="date"] {
   padding: 10px;
-  width: 300px;
+  width: 200px;
   border: 1px solid #ccc;
   border-radius: 5px;
   margin-right: 10px;
