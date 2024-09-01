@@ -16,7 +16,7 @@ The Daily Task Tracker Application is a simple application to manage daily tasks
 2. **View Tasks**: The list of added tasks will be displayed below the task input.
 3. **Edit Task**: Click the "Edit" button next to the task you want to edit. Enter the new task text and new due date, then click "OK".
 4. **Delete Task**: Click the "Delete" button next to the task you want to delete.
-5. **Mark as Completed**: Click the "Complete" button next to the task you want to mark as completed. Click the "Undo" button to undo the completion.
+5. **Mark as Completed**: Click the "Complete" button next to the task you want to mark as completed. Click the Cancel" button to undo the completion.
 
 ## Project Structure
 
